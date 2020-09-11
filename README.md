@@ -3,6 +3,15 @@ minipunk
 
 A short 3D action game for the 2020 js13kGames Competition.
 
+The evil 404 Megacorp threatens to take over the internet.  You must stop them!
+
+Controls:
+WASD - move
+Left click - attack
+Right click - zoom
+Spacebar - jump
+Tip: Try zoom + attack
+
 ![screenshot-1](https://cody.ebberson.com/minipunk/screenshots/minipunk4.gif "screenshot-1") ![screenshot-2](https://cody.ebberson.com/minipunk/screenshots/minipunk5.gif "screenshot-2")
 ![screenshot-3](https://cody.ebberson.com/minipunk/screenshots/minipunk6.gif "screenshot-3") ![screenshot-4](https://cody.ebberson.com/minipunk/screenshots/minipunk7.gif "screenshot-4")
 
