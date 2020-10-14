@@ -484,6 +484,9 @@ class IntroStory {
         if (mouse.buttons[0].upCount === 1) {
             // Skip cutscene
             menu = null;
+
+            // Restart the game clock
+            gameTime = 0;
         }
 
         let t = Math.max(0, Math.min(20, time - this.startTime - 1.0));

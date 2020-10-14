@@ -21,6 +21,12 @@ Tip: Try zoom + attack
 
 Tested on Chrome, Firefox, and Edge on Mac and Windows.
 
+## Branches
+
+`submission` branch is what was submitted for the competition
+
+`master` branch includes post competition bug fixes
+
 ## Development
 
 The source is all vanilla JavaScript which can be run directly by the browser.
